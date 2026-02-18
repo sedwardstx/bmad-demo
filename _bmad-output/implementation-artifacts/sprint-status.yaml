@@ -41,7 +41,7 @@ story_location: _bmad-output/implementation-artifacts
 
 development_status:
   epic-1: in-progress
-  1-1-project-scaffolding-and-database-initialization: ready-for-dev
+  1-1-project-scaffolding-and-database-initialization: done
   1-2-first-run-credential-setup: backlog
   epic-1-retrospective: optional
 
